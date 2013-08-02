@@ -1,1 +1,1 @@
-wget http://yum.pgrpms.org/9.2/redhat/rhel-6-x86_64/pgdg-centos92-9.2-6.noarch.rpm
+wget http://cdn.mysql.com/Downloads/MySQL-5.5/MySQL-devel-5.5.27-1.el6.x86_64.rpm
